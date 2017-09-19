@@ -1,0 +1,9 @@
+parameters:
+    ide: phpstorm
+    database_driver: pdo_pgsql
+    database_name: audio
+    database_user: audio
+    database_port: 5432
+    database_password: 'vsJsxxqaKfw8hwdKr4RTgqYKllho=='
+    main_domain: 'audio.com'
+
